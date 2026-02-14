@@ -35,7 +35,5 @@ This project allows users to:
 - MongoDB
 - MongoDB Atlas 
 
----
 
-## 📂 Project Structure
 
